@@ -1,2 +1,2 @@
 # LinkedIn-Learning
-Repositório de cursos do Linkedin 
+Repositório para os cursos do Linkedin 
